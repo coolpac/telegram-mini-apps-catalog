@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://coolpac.github.io/telegram-mini-apps-catalog/sitemap.xml

@@ -30,15 +30,17 @@ jobs:
         run: python3 scripts/check.py
 
       - name: Verify every link resolves
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: python3 scripts/check.py --check-links
 
-      - name: Ensure README and llms.txt match the data
+      - name: Ensure all generated files match the data
         run: |
           python3 scripts/build.py
-          if ! git diff --quiet -- README.md llms.txt; then
-            echo "::error::README.md or llms.txt is out of date."
+          if ! git diff --quiet -- README.md llms.txt badge.svg BADGE.md site/; then
+            echo "::error::Generated files are out of date."
             echo "Run 'python3 scripts/build.py' and commit the result."
-            git diff --stat -- README.md llms.txt
+            git diff --stat -- README.md llms.txt badge.svg BADGE.md site/
             exit 1
           fi
           echo "Generated files are in sync."

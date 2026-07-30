@@ -31,7 +31,7 @@ jobs:
         id: check
         run: |
           set +e
-          python3 scripts/check.py --check-links > result.txt 2>&1
+          GH_TOKEN="${{ github.token }}" python3 scripts/check.py --check-links > result.txt 2>&1
           echo "exit_code=$?" >> "$GITHUB_OUTPUT"
           cat result.txt
         continue-on-error: true
@@ -47,7 +47,7 @@ jobs:
             echo "Nothing changed."
             exit 0
           fi
-          git add data/apps.json README.md llms.txt
+          git add data/apps.json README.md llms.txt badge.svg BADGE.md site/
           git commit -m "Weekly link check: refresh verification dates"
           git push
 

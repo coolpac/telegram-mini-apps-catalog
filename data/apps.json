@@ -92,7 +92,10 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#32",
       "lastChecked": "2026-07-31",
       "status": "ok",
-      "descriptionSource": "upstream repository description"
+      "descriptionSource": "upstream repository description",
+      "lastCommit": "2025-04-30",
+      "staleDays": 457,
+      "staleNote": "no commits in 15 months"
     },
     {
       "name": "twa-nextjs-monorepo-starter",
@@ -103,7 +106,9 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#31",
       "lastChecked": "2026-07-31",
       "status": "ok",
-      "descriptionSource": "upstream repository description"
+      "descriptionSource": "upstream repository description",
+      "lastCommit": "2025-11-16",
+      "staleDays": 257
     },
     {
       "name": "Types for Telegram Web Apps (TWA) SDK",
@@ -113,7 +118,9 @@
       "contributedBy": "fullpipe",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#30",
       "lastChecked": "2026-07-31",
-      "status": "ok"
+      "status": "ok",
+      "lastCommit": "2026-05-18",
+      "staleDays": 74
     },
     {
       "name": "Cosmic Bugs",
@@ -123,7 +130,9 @@
       "contributedBy": "keyfire",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#47",
       "lastChecked": "2026-07-31",
-      "status": "ok"
+      "status": "ok",
+      "lastCommit": "2026-07-16",
+      "staleDays": 15
     },
     {
       "name": "CSUBOT",
@@ -133,7 +142,10 @@
       "contributedBy": "cjh0613",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#34",
       "lastChecked": "2026-07-31",
-      "status": "ok"
+      "status": "ok",
+      "lastCommit": "2025-06-07",
+      "staleDays": 419,
+      "staleNote": "no commits in 13 months"
     },
     {
       "name": "MemoCard",
@@ -143,7 +155,9 @@
       "contributedBy": "cjh0613",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#34",
       "lastChecked": "2026-07-31",
-      "status": "ok"
+      "status": "ok",
+      "lastCommit": "2026-07-30",
+      "staleDays": 1
     },
     {
       "name": "NobleTruths",
@@ -154,7 +168,10 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#28",
       "lastChecked": "2026-07-31",
       "status": "ok",
-      "descriptionSource": "upstream repository description"
+      "descriptionSource": "upstream repository description",
+      "lastCommit": "2025-02-18",
+      "staleDays": 528,
+      "staleNote": "no commits in 17 months"
     },
     {
       "name": "OpenFreeMap",
@@ -164,7 +181,9 @@
       "contributedBy": "acdmft",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#37",
       "lastChecked": "2026-07-31",
-      "status": "ok"
+      "status": "ok",
+      "lastCommit": "2026-02-17",
+      "staleDays": 164
     },
     {
       "name": "Appla",

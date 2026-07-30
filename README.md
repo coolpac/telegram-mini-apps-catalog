@@ -1,14 +1,16 @@
 # Telegram Mini Apps — a catalog that is actually maintained
 
-Every entry here is checked automatically every week. If a link dies, the entry
-is flagged in `data/apps.json` and fixed or removed — a stale directory is worse
-than no directory.
+Every entry is re-checked automatically every week. Not just "does the URL
+return 200" — for Telegram links the check confirms the bot still **exists**
+(Telegram serves a normal 200 page for deleted bots, so naive link checkers
+report them as healthy), and for GitHub links it reports how long the project
+has been untouched.
 
-**Submissions are merged in days, not months.** See [CONTRIBUTING.md](CONTRIBUTING.md).
+**Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - **29 apps**, last verified **2026-07-31**
-- Machine-readable copy: [`data/apps.json`](data/apps.json) — for anyone building
-  on top of this, including AI assistants
+- **3** flagged as inactive — listed, but marked, not quietly left to rot
+- Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
 
 ## Contents
@@ -16,7 +18,7 @@ than no directory.
 - [Products](#products)
 - [Games](#games)
 - [Open Source Projects](#open-source-projects)
-- [Libraries & Templates](#libraries--templates)
+- [Libraries & Templates](#libraries-templates)
 
 
 ## Products
@@ -49,16 +51,21 @@ than no directory.
 ## Open Source Projects
 
 - [Cosmic Bugs](https://github.com/keyfire/fresh-space-invaders) - A dependency-free, single-file HTML5 Canvas arcade shooter (Space Invaders style) with power-ups, bosses, and RU/EN/ES/PT/TR localization.
-- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.
+- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.  *(no commits in 13 months)*
 - [MemoCard](https://github.com/kubk/memo-card) - Flashcard app for improving memory with spaced repetition.
-- [NobleTruths](https://github.com/MaximStone/eight-truths) - Habit daily journal for practitioners.
+- [NobleTruths](https://github.com/MaximStone/eight-truths) - Habit daily journal for practitioners.  *(no commits in 17 months)*
 - [OpenFreeMap](https://github.com/asan-pf/tma-ofm-react-template) - Share and discover locations with telegram and OpenFreeMaps.
 
 ## Libraries & Templates
 
-- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.
+- [Authentication using TMA using nestJS and NextJS](https://github.com/e3ob/Telegram-Mini-App-Auth) - Template for authentication in a Telegram Mini App using NestJS.  *(no commits in 15 months)*
 - [twa-nextjs-monorepo-starter](https://github.com/eugeneshilow/twa-nextjs-monorepo-starter) - Starter template for Telegram Mini Apps using Next.js in a pnpm monorepo.
 - [Types for Telegram Web Apps (TWA) SDK](https://github.com/fullpipe/twa-sdk-types) - Types for Telegram Web Apps (TWA) SDK. Fast updates.
+
+## For listed authors
+
+If your app is here, you are welcome to show it. See [BADGE.md](BADGE.md) for a
+copy-paste snippet.
 
 ## Where these entries came from
 
@@ -75,8 +82,8 @@ and the entry comes out, no questions asked.
 ## Who maintains this
 
 This catalog is maintained by the people behind StoriesFly, which is itself
-listed under Products. It is listed under exactly the same rules as everything
-else, with no special placement, and it is flagged in the data with a
+listed under Products. It sits under exactly the same rules as everything else,
+with no preferential placement, and it is flagged in the data with a
 `maintainerNote` so nobody has to take that on trust.
 
 The reason for saying so plainly: a directory whose owner quietly ranks himself
@@ -84,4 +91,4 @@ first is worth nothing to anyone.
 
 ## License
 
-[CC0-1.0](LICENSE) — public domain. Take the data and do whatever you want with it.
+[CC0-1.0](LICENSE) — public domain. Take the data and do what you like with it.
