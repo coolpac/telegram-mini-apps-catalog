@@ -29,12 +29,12 @@ jobs:
       - name: Validate schema
         run: python3 scripts/check.py
 
-      - name: Verify every link resolves
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: python3 scripts/check.py --check-links
-
-      - name: Ensure all generated files match the data
+      # This has to run BEFORE the link check. --check-links rewrites
+      # lastChecked in the data, so if it ran first every build would differ
+      # from the committed one by nothing but today's date, and the job would
+      # fail for no real reason. Keeping generated files in sync is the
+      # contributor's job; keeping verification dates fresh is the weekly job's.
+      - name: Ensure generated files match the committed data
         run: |
           python3 scripts/build.py
           if ! git diff --quiet -- README.md llms.txt badge.svg BADGE.md site/; then
@@ -44,3 +44,8 @@ jobs:
             exit 1
           fi
           echo "Generated files are in sync."
+
+      - name: Verify every entry resolves and still exists
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/check.py --check-links
