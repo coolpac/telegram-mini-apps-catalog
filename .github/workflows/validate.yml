@@ -1,0 +1,44 @@
+name: Validate submission
+
+# Runs on every pull request that touches the data. This is what makes the
+# "decision within 7 days" promise cheap to keep: format, dead links and
+# duplicates are caught by CI, so a human only ever reviews whether the app
+# itself belongs here.
+
+on:
+  pull_request:
+    paths:
+      - "data/apps.json"
+      - "scripts/**"
+  push:
+    branches: [main]
+    paths:
+      - "data/apps.json"
+      - "scripts/**"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate schema
+        run: python3 scripts/check.py
+
+      - name: Verify every link resolves
+        run: python3 scripts/check.py --check-links
+
+      - name: Ensure README and llms.txt match the data
+        run: |
+          python3 scripts/build.py
+          if ! git diff --quiet -- README.md llms.txt; then
+            echo "::error::README.md or llms.txt is out of date."
+            echo "Run 'python3 scripts/build.py' and commit the result."
+            git diff --stat -- README.md llms.txt
+            exit 1
+          fi
+          echo "Generated files are in sync."
