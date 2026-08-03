@@ -1,6 +1,6 @@
 # Telegram Mini Apps Catalog
 
-> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-07-31.
+> A verified catalog of 29 Telegram Mini Apps. Every entry is re-checked weekly, including whether the Telegram bot still exists. Last verified 2026-08-03.
 
 Entries flagged as inactive or unreachable are marked as such below rather than silently removed.
 
@@ -36,7 +36,7 @@ Structured data: https://github.com/coolpac/telegram-mini-apps-catalog/blob/main
 ## Open Source Projects
 
 - [Cosmic Bugs](https://github.com/keyfire/fresh-space-invaders): A dependency-free, single-file HTML5 Canvas arcade shooter (Space Invaders style) with power-ups, bosses, and RU/EN/ES/PT/TR localization.
-- [CSUBOT](https://github.com/cjh0613/csubot): Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans. [no commits in 13 months]
+- [CSUBOT](https://github.com/cjh0613/csubot): Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans. [no commits in 14 months]
 - [MemoCard](https://github.com/kubk/memo-card): Flashcard app for improving memory with spaced repetition.
 - [NobleTruths](https://github.com/MaximStone/eight-truths): Habit daily journal for practitioners. [no commits in 17 months]
 - [OpenFreeMap](https://github.com/asan-pf/tma-ofm-react-template): Share and discover locations with telegram and OpenFreeMaps.

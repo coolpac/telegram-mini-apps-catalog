@@ -1,6 +1,6 @@
 {
   "repo": "coolpac/telegram-mini-apps-catalog",
-  "updated": "2026-07-31",
+  "updated": "2026-08-03",
   "count": 29,
   "apps": [
     {
@@ -10,7 +10,7 @@
       "category": "Games",
       "contributedBy": "another-story",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#51",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -20,7 +20,7 @@
       "category": "Games",
       "contributedBy": "dearjohndoe",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#44",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -30,7 +30,7 @@
       "category": "Games",
       "contributedBy": "artemecom",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#52",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -40,7 +40,7 @@
       "category": "Games",
       "contributedBy": "MCSRL",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#56",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -50,7 +50,7 @@
       "category": "Games",
       "contributedBy": "keyfire",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#49",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -60,7 +60,7 @@
       "category": "Games",
       "contributedBy": "playful-mind",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#45",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -70,7 +70,7 @@
       "category": "Games",
       "contributedBy": "technolife1",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#54",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -80,7 +80,7 @@
       "category": "Games",
       "contributedBy": "meomeoww",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#38",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -90,11 +90,11 @@
       "category": "Libraries & Templates",
       "contributedBy": "e3ob",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#32",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "descriptionSource": "upstream repository description",
       "lastCommit": "2025-04-30",
-      "staleDays": 457,
+      "staleDays": 460,
       "staleNote": "no commits in 15 months"
     },
     {
@@ -104,11 +104,11 @@
       "category": "Libraries & Templates",
       "contributedBy": "eugeneshilow",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#31",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "descriptionSource": "upstream repository description",
       "lastCommit": "2025-11-16",
-      "staleDays": 257
+      "staleDays": 260
     },
     {
       "name": "Types for Telegram Web Apps (TWA) SDK",
@@ -117,10 +117,10 @@
       "category": "Libraries & Templates",
       "contributedBy": "fullpipe",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#30",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "lastCommit": "2026-05-18",
-      "staleDays": 74
+      "staleDays": 77
     },
     {
       "name": "Cosmic Bugs",
@@ -129,10 +129,10 @@
       "category": "Open Source Projects",
       "contributedBy": "keyfire",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#47",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "lastCommit": "2026-07-16",
-      "staleDays": 15
+      "staleDays": 18
     },
     {
       "name": "CSUBOT",
@@ -141,11 +141,11 @@
       "category": "Open Source Projects",
       "contributedBy": "cjh0613",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#34",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "lastCommit": "2025-06-07",
-      "staleDays": 419,
-      "staleNote": "no commits in 13 months"
+      "staleDays": 422,
+      "staleNote": "no commits in 14 months"
     },
     {
       "name": "MemoCard",
@@ -154,10 +154,10 @@
       "category": "Open Source Projects",
       "contributedBy": "cjh0613",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#34",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
-      "lastCommit": "2026-07-30",
-      "staleDays": 1
+      "lastCommit": "2026-08-01",
+      "staleDays": 2
     },
     {
       "name": "NobleTruths",
@@ -166,11 +166,11 @@
       "category": "Open Source Projects",
       "contributedBy": "MaximStone",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#28",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "descriptionSource": "upstream repository description",
       "lastCommit": "2025-02-18",
-      "staleDays": 528,
+      "staleDays": 531,
       "staleNote": "no commits in 17 months"
     },
     {
@@ -180,10 +180,10 @@
       "category": "Open Source Projects",
       "contributedBy": "acdmft",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#37",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "lastCommit": "2026-02-17",
-      "staleDays": 164
+      "staleDays": 167
     },
     {
       "name": "Appla",
@@ -192,7 +192,7 @@
       "category": "Products",
       "contributedBy": "afanasievam-spain",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#48",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -202,7 +202,7 @@
       "category": "Products",
       "contributedBy": "SzczepanBEN",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#58",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -212,7 +212,7 @@
       "category": "Products",
       "contributedBy": "gurify",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#39",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -222,7 +222,7 @@
       "category": "Products",
       "contributedBy": "pawelorzech",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#41",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -232,7 +232,7 @@
       "category": "Products",
       "contributedBy": "Shin-GS",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#50",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -242,7 +242,7 @@
       "category": "Products",
       "contributedBy": "nazizpziga-ctrl",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#59",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -252,7 +252,7 @@
       "category": "Products",
       "contributedBy": "san-npm",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#40",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -262,7 +262,7 @@
       "category": "Products",
       "contributedBy": "meomeoww",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#38",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -272,7 +272,7 @@
       "category": "Products",
       "contributedBy": "spi4kavg",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#57",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -282,7 +282,7 @@
       "category": "Products",
       "contributedBy": "ApertumGrid",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#53",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -292,7 +292,7 @@
       "category": "Products",
       "contributedBy": "coolpac",
       "sourcePR": null,
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok",
       "maintainerNote": "Maintained by the same people who maintain this list — listed under the same rules as everything else, with no preferential placement."
     },
@@ -303,7 +303,7 @@
       "category": "Products",
       "contributedBy": "allabelkevich-wq",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#46",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     },
     {
@@ -313,7 +313,7 @@
       "category": "Products",
       "contributedBy": "ittermit",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
-      "lastChecked": "2026-07-31",
+      "lastChecked": "2026-08-03",
       "status": "ok"
     }
   ]

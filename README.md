@@ -8,7 +8,7 @@ has been untouched.
 
 **Submissions get a decision within 7 days.** See [CONTRIBUTING.md](CONTRIBUTING.md).
 
-- **29 apps**, last verified **2026-07-31**
+- **29 apps**, last verified **2026-08-03**
 - **3** flagged as inactive — listed, but marked, not quietly left to rot
 - Machine-readable copy: [`data/apps.json`](data/apps.json)
 - Every entry records who contributed it and when it was last checked
@@ -51,7 +51,7 @@ has been untouched.
 ## Open Source Projects
 
 - [Cosmic Bugs](https://github.com/keyfire/fresh-space-invaders) - A dependency-free, single-file HTML5 Canvas arcade shooter (Space Invaders style) with power-ups, bosses, and RU/EN/ES/PT/TR localization.
-- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.  *(no commits in 13 months)*
+- [CSUBOT](https://github.com/cjh0613/csubot) - Telegram Web APP CAPTCHA Bot to verify if incoming group users are real humans.  *(no commits in 14 months)*
 - [MemoCard](https://github.com/kubk/memo-card) - Flashcard app for improving memory with spaced repetition.
 - [NobleTruths](https://github.com/MaximStone/eight-truths) - Habit daily journal for practitioners.  *(no commits in 17 months)*
 - [OpenFreeMap](https://github.com/asan-pf/tma-ofm-react-template) - Share and discover locations with telegram and OpenFreeMaps.
