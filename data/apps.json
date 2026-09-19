@@ -1,7 +1,7 @@
 {
   "repo": "coolpac/telegram-mini-apps-catalog",
   "updated": "2026-09-14",
-  "count": 29,
+  "count": 30,
   "apps": [
     {
       "name": "Arena Defense",
@@ -295,6 +295,15 @@
       "lastChecked": "2026-09-14",
       "status": "ok",
       "maintainerNote": "Maintained by the same people who maintain this list — listed under the same rules as everything else, with no preferential placement."
+    },
+    {
+      "name": "TOPTL",
+      "url": "https://t.me/Toptlbot",
+      "description": "Discover and search Telegram channels, groups, and bots, and vote for listings from Telegram. Rankings combine community votes with paid visibility through Telegram Stars.",
+      "category": "Products",
+      "contributedBy": "Dramex",
+      "lastChecked": "2026-09-20",
+      "status": "ok"
     },
     {
       "name": "YupSoul",
