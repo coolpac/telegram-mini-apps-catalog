@@ -1,7 +1,7 @@
 {
   "repo": "coolpac/telegram-mini-apps-catalog",
   "updated": "2026-09-28",
-  "count": 29,
+  "count": 30,
   "apps": [
     {
       "name": "Arena Defense",
@@ -51,6 +51,15 @@
       "contributedBy": "keyfire",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#49",
       "lastChecked": "2026-09-28",
+      "status": "ok"
+    },
+    {
+      "name": "Poker Monkey",
+      "url": "https://t.me/monkey_poker_bot/game",
+      "description": "Free-to-play Texas Hold'em tournaments in Telegram with daily chips, multiple buy-ins, missions, leaderboards and friend referrals. Uses virtual chips only, with no cashout or real-money prizes.",
+      "category": "Games",
+      "contributedBy": "bortmehannik",
+      "lastChecked": "2026-09-29",
       "status": "ok"
     },
     {
