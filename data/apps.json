@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "NarvaLine",
+      "url": "https://t.me/NarvaLineBot?start=src_coolpac",
+      "description": "Live queue status for the Narva-Ivangorod (Estonia-Russia) pedestrian border crossing: real-time wait estimates, history, and threshold alerts.",
+      "category": "Products",
+      "contributedBy": "LedMeIn",
+      "lastChecked": "2026-09-08",
+      "status": "ok"
     }
   ]
 }
