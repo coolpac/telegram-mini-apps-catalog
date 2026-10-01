@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "Life Sim",
+      "url": "https://t.me/LsimgameBot",
+      "description": "Life simulation game: live a whole life year by year with AI-written events and choices, reach life goals, open a daily chest and challenge friends in weekly duels. Also predicts a funny life for any name in any chat via inline mode. Available in 11 languages.",
+      "category": "Games",
+      "contributedBy": "jeremstyke",
+      "lastChecked": "2026-10-01",
+      "status": "ok"
     }
   ]
 }
