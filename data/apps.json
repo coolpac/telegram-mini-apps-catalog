@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "Bus Station",
+      "url": "https://t.me/busstationgame_bot",
+      "description": "A colorful bus puzzle inside Telegram. Plan the order of moves and clear the station; current interface is Russian.",
+      "category": "Games",
+      "contributedBy": "1smirnovsergey",
+      "lastChecked": "2026-10-03",
+      "status": "ok"
     }
   ]
 }
