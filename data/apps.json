@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "LokaSay",
+      "url": "https://t.me/LokaSayLanguage_bot",
+      "description": "Travel Thai phrase practice with audio cards and a repetition tool. Russian interface, synthetic audio, free basic practice, and no automatic pronunciation scoring.",
+      "category": "Products",
+      "contributedBy": "1smirnovsergey",
+      "lastChecked": "2026-10-03",
+      "status": "ok"
     }
   ]
 }
