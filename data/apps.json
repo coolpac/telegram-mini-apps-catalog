@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "Zhivoy Rubezh",
+      "url": "https://t.me/ZhivoyRubezhGameBot",
+      "description": "An outpost development and defense game inside Telegram. Prepare your frontier and its defenses; current interface is Russian.",
+      "category": "Games",
+      "contributedBy": "1smirnovsergey",
+      "lastChecked": "2026-10-03",
+      "status": "ok"
     }
   ]
 }
