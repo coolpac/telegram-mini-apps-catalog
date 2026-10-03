@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "Poker Road",
+      "url": "https://t.me/pokerroad_bot",
+      "description": "Single-player Texas Holdem against computer opponents, with missions and a city map inside Telegram. Virtual chips only, with no cash payouts or cash prizes; current interface is Russian.",
+      "category": "Games",
+      "contributedBy": "1smirnovsergey",
+      "lastChecked": "2026-10-03",
+      "status": "ok"
     }
   ]
 }
