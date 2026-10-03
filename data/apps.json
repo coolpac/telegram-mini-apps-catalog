@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-09-28",
       "status": "ok"
+    },
+    {
+      "name": "Ant Atelier",
+      "url": "https://t.me/antsinthepainting_bot",
+      "description": "A puzzle game about colorful ant squads and pixel pictures inside Telegram. Plan squad order, uncover matching tiles, and complete paintings without a timer. English and Russian interfaces.",
+      "category": "Games",
+      "contributedBy": "1smirnovsergey",
+      "lastChecked": "2026-10-03",
+      "status": "ok"
     }
   ]
 }
