@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-05",
       "status": "ok"
+    },
+    {
+      "name": "Zoomons",
+      "url": "https://t.me/Zoomonsbot",
+      "description": "Five short 3D games with the same cast of monsters: a lane racer, an endless runner, a tilt-to-run tower climber, a sumo brawl and a tap-to-flap glider. Play solo or open a room and play friends live. Free to play.",
+      "category": "Games",
+      "contributedBy": "ituby",
+      "lastChecked": "2026-10-08",
+      "status": "ok"
     }
   ]
 }
