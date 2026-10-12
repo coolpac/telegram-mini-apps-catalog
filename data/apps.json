@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-05",
       "status": "ok"
+    },
+    {
+      "name": "Wake the Stars",
+      "url": "https://t.me/WakeTheStarsBot",
+      "description": "A calm logic puzzle: tapping a star flips it and its four neighbours, and the goal is to light the whole sky in the fewest moves. 60 levels and a daily puzzle; free, with optional hint tickets for Stars.",
+      "category": "Games",
+      "contributedBy": "phantue2002",
+      "lastChecked": "2026-10-12",
+      "status": "ok"
     }
   ]
 }
