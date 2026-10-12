@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-05",
       "status": "ok"
+    },
+    {
+      "name": "Orbit Links",
+      "url": "https://t.me/OrbitLinksBot",
+      "description": "A logic puzzle where you connect planets with one or two flight routes so each planet has exactly its number of routes, with no crossings, into one network. 60 levels and a daily puzzle; free, with optional hint tickets for Stars.",
+      "category": "Games",
+      "contributedBy": "phantue2002",
+      "lastChecked": "2026-10-12",
+      "status": "ok"
     }
   ]
 }
