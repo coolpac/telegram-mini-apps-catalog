@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-05",
       "status": "ok"
+    },
+    {
+      "name": "Push to Void",
+      "url": "https://t.me/PushToVoidBot",
+      "description": "A logic puzzle on a 6x6 grid: tap arrow blocks to push every block into the void within the move limit. 60 levels and a daily puzzle; free, with optional hint tickets for Stars.",
+      "category": "Games",
+      "contributedBy": "phantue2002",
+      "lastChecked": "2026-10-12",
+      "status": "ok"
     }
   ]
 }
