@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-12",
       "status": "ok"
+    },
+    {
+      "name": "Games with Friends",
+      "url": "https://t.me/BoardingGames_bot?start=src_catalog_coolpac",
+      "description": "Board and card games in a Telegram Mini App, including Durak, chess, backgammon and dominoes. Play table games with friends or bots, or choose solo puzzles such as Sudoku and 2048.",
+      "category": "Games",
+      "contributedBy": "aleustim-boop",
+      "lastChecked": "2026-10-05",
+      "status": "ok"
     }
   ]
 }
