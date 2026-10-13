@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-12",
       "status": "ok"
+    },
+    {
+      "name": "Kontragram",
+      "url": "https://t.me/kontragram_bot",
+      "description": "A 5v5 multiplayer shooter in the style of Counter-Strike that runs inside Telegram, with touch controls, ranked matchmaking, bots that fill empty slots, and modes such as bomb defusal, zombies, prop hunt, gun game and deathrun.",
+      "category": "Games",
+      "contributedBy": "EfimSafonov",
+      "lastChecked": "2026-10-14",
+      "status": "ok"
     }
   ]
 }
