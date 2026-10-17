@@ -1,7 +1,7 @@
 {
   "repo": "coolpac/telegram-mini-apps-catalog",
-  "updated": "2026-10-12",
-  "count": 29,
+  "updated": "2026-10-17",
+  "count": 30,
   "apps": [
     {
       "name": "Arena Defense",
@@ -223,6 +223,15 @@
       "contributedBy": "pawelorzech",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#41",
       "lastChecked": "2026-10-12",
+      "status": "ok"
+    },
+    {
+      "name": "DAO Generator",
+      "url": "https://t.me/Dao_gen_bot",
+      "description": "Create a coin-weighted DAO on TON inside Telegram: on-chain votes and a shared treasury via TON Connect. Open the Mini App from the bot, pick a type, and pay to deploy the container.",
+      "category": "Products",
+      "contributedBy": "pressfreedomcoalition-art",
+      "lastChecked": "2026-10-17",
       "status": "ok"
     },
     {
