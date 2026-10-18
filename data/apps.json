@@ -84,6 +84,15 @@
       "status": "ok"
     },
     {
+      "name": "Valley Guard",
+      "url": "https://t.me/ValleyGuard_bot/play",
+      "description": "Idle tower defense where pests eat your crops before they reach the fence. Tap skills like a pumpkin bomb and frost mid-fight and beat a boss every 10 waves. Also playable in the browser at valleyguard.app.",
+      "category": "Games",
+      "contributedBy": "greenvalleyton",
+      "lastChecked": "2026-10-18",
+      "status": "ok"
+    },
+    {
       "name": "Authentication using TMA using nestJS and NextJS",
       "url": "https://github.com/e3ob/Telegram-Mini-App-Auth",
       "description": "Template for authentication in a Telegram Mini App using NestJS.",
