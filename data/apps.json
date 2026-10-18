@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-12",
       "status": "ok"
+    },
+    {
+      "name": "T-Social",
+      "url": "https://t.me/TSocialAppBot",
+      "description": "TikTok-style social Mini App for Telegram: short clips, trending creators, AI chat characters.",
+      "category": "Products",
+      "contributedBy": "ronan-com",
+      "lastChecked": "2026-10-19",
+      "status": "ok"
     }
   ]
 }
