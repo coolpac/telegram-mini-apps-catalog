@@ -216,6 +216,15 @@
       "status": "ok"
     },
     {
+      "name": "CopyHype",
+      "url": "https://t.me/copyhypefamilybot",
+      "description": "Copy active Hyperliquid traders in one tap, ranked by 7-day ROI, or trade crypto, stocks, gold, indices and meme perps solo. Non-custodial wallet, trades from $2, free 7-day practice with $1,000 of play money.",
+      "category": "Products",
+      "contributedBy": "thibaultcoulon",
+      "lastChecked": "2026-10-20",
+      "status": "ok"
+    },
+    {
       "name": "Daily Tarot",
       "url": "https://t.me/thisisthedailytarotbot",
       "description": "Daily tarot card pull with Mini App, Rider-Waite deck (public domain), 7 languages, Telegram Stars payments.",
