@@ -322,7 +322,8 @@
       "url": "https://t.me/you_aura_bot",
       "description": "Random 1-on-1 video chat with people worldwide, right inside Telegram: swipe to match, filter by language, built-in icebreaker mini-games. Free, no install, 18+.",
       "category": "Products",
-      "contributedBy": "skeep83"
+      "contributedBy": "skeep83",
+      "status": "active"
     }
   ]
 }
