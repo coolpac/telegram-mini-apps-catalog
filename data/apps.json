@@ -1,7 +1,7 @@
 {
   "repo": "coolpac/telegram-mini-apps-catalog",
-  "updated": "2026-10-26",
-  "count": 29,
+  "updated": "2026-10-28",
+  "count": 30,
   "apps": [
     {
       "name": "Arena Defense",
@@ -315,6 +315,15 @@
       "contributedBy": "ittermit",
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-26",
+      "status": "ok"
+    },
+    {
+      "name": "Slimes: Evolution",
+      "url": "https://t.me/slimegamebest_bot",
+      "description": "Merge-and-idle game with 30 slime forms across six worlds, upgrades, quests and collectible skins. Free to play in Russian and English, with optional Telegram Stars purchases. Open the bot and tap Play to launch.",
+      "category": "Games",
+      "contributedBy": "grey021",
+      "lastChecked": "2026-10-28",
       "status": "ok"
     }
   ]
