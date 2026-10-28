@@ -4,6 +4,15 @@
   "count": 29,
   "apps": [
     {
+      "name": "XEvents",
+      "url": "https://github.com/ehsan0921/Telegram-event-management",
+      "description": "Telegram bot and Mini App for event management, personal RSVP invitations, ticket booking, guest check-in and shared event media. MIT licensed, with self-hosting documentation for Cloudflare Workers and D1.",
+      "category": "Open Source Projects",
+      "contributedBy": "ehsan0921",
+      "lastChecked": "2026-10-08",
+      "status": "ok"
+    },
+    {
       "name": "Arena Defense",
       "url": "https://t.me/arena_defense_bot/arena_defense",
       "description": "Idle auto-battler defense: build a party of 10 heroes, unleash screen-clearing skills, and hold the line across 10 chapters. Playable in EN/KO/RU/ZH.",
