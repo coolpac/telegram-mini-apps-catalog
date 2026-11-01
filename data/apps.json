@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-10-26",
       "status": "ok"
+    },
+    {
+      "name": "Owella",
+      "url": "https://t.me/owellabot?startapp=src_tmacatalog",
+      "description": "Split shared expenses for trips, flats and dinners inside Telegram: /add in the group chat, equal or custom splits, any currency, a shared kitty and suggested transfers to settle up. Free, no ads.",
+      "category": "Products",
+      "contributedBy": "djpavlo",
+      "lastChecked": "2026-11-01",
+      "status": "ok"
     }
   ]
 }
