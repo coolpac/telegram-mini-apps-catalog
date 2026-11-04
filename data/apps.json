@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-11-02",
       "status": "ok"
+    },
+    {
+      "name": "Couscous: Guess the Word",
+      "url": "https://t.me/play_couscous_bot",
+      "description": "A word-guessing game: Couscous thinks of a secret word, and you ask yes-or-no questions until you name it. One free riddle a day for everyone, themed rounds, and a collection of the words you find.",
+      "category": "Games",
+      "contributedBy": "Bogdan1001",
+      "lastChecked": "2026-11-02",
+      "status": "ok"
     }
   ]
 }
