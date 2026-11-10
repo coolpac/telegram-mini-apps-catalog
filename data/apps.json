@@ -84,6 +84,15 @@
       "status": "ok"
     },
     {
+      "name": "Tap Tim",
+      "url": "https://t.me/NeuroTimBot?start=src_github",
+      "description": "Free casual tapper: hatch robot Tim from an egg, evolve him through 10 forms, daily tasks and co-op raid bosses. Browser demo: https://ofd.unlock-rent.ru/timtapbot/demo/.",
+      "category": "Games",
+      "contributedBy": "alexshangin96-ux",
+      "lastChecked": "2026-11-10",
+      "status": "ok"
+    },
+    {
       "name": "Authentication using TMA using nestJS and NextJS",
       "url": "https://github.com/e3ob/Telegram-Mini-App-Auth",
       "description": "Template for authentication in a Telegram Mini App using NestJS.",
