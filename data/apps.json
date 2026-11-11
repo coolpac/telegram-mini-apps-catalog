@@ -54,6 +54,15 @@
       "status": "ok"
     },
     {
+      "name": "Pirates: Split the Treasure",
+      "url": "https://t.me/playpirates_game/play",
+      "description": "Five pirates split one treasure. One proposes the split, the others vote, and a rejected proposer is out. Live matches against real players, most under a minute.",
+      "category": "Games",
+      "contributedBy": "zygimantas",
+      "lastChecked": "2026-11-11",
+      "status": "ok"
+    },
+    {
       "name": "Playful Mind",
       "url": "https://t.me/playful_mind_bot/play?startapp=cat_awesome_tma",
       "description": "A small collection of calm brain games (memory & logic) — a few quiet minutes a day, free, no ads.",
