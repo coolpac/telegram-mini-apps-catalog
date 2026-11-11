@@ -316,6 +316,15 @@
       "sourcePR": "telegram-mini-apps-dev/awesome-telegram-mini-apps#55",
       "lastChecked": "2026-11-09",
       "status": "ok"
+    },
+    {
+      "name": "TermiGram",
+      "url": "https://t.me/TermiGram_Robot",
+      "description": "SSH terminal and SFTP file manager inside Telegram for externally reachable servers. A permanent Free plan is available; Cloud Terminal and extra capacity are paid options.",
+      "category": "Products",
+      "contributedBy": "AlexAI-Admin",
+      "lastChecked": "2026-10-26",
+      "status": "ok"
     }
   ]
 }
